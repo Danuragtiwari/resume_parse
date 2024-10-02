@@ -23,7 +23,7 @@ This project is a Django-based web application that allows users to upload resum
 - **Data Extraction:** Python, Regular Expressions (Regex)
 
 ## Project Structure
-`
+      .
       resume/
       │
       ├── app/
@@ -45,7 +45,7 @@ This project is a Django-based web application that allows users to upload resum
       │
       ├── manage.py
       └── README.md
-`
+
 # Install the required dependencies:
 pip install -r requirements.txt
 # Run the Django development server:
