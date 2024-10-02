@@ -23,28 +23,29 @@ This project is a Django-based web application that allows users to upload resum
 - **Data Extraction:** Python, Regular Expressions (Regex)
 
 ## Project Structure
-resume/
-│
-├── app/
-│   ├── templates/
-│   │   ├── upload.html
-│   │   ├── result.html
-│   ├── views.py
-│   ├── models.py
-│   ├── urls.py
-│   ├── utils.py
-│   └── forms.py
-│
-├── resume/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── manage.py
-└── README.md
-
+`
+      resume/
+      │
+      ├── app/
+      │   ├── templates/
+      │   │   ├── upload.html
+      │   │   ├── result.html
+      │   ├── views.py
+      │   ├── models.py
+      │   ├── urls.py
+      │   ├── utils.py
+      │   └── forms.py
+      │
+      ├── resume/
+      │   ├── __init__.py
+      │   ├── asgi.py
+      │   ├── settings.py
+      │   ├── urls.py
+      │   └── wsgi.py
+      │
+      ├── manage.py
+      └── README.md
+`
 # Install the required dependencies:
 pip install -r requirements.txt
 # Run the Django development server:
