@@ -47,9 +47,9 @@ This project is a Django-based web application that allows users to upload resum
       └── README.md
 
 # Install the required dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 # Run the Django development server:
-python manage.py runserver
+`python manage.py runserver`
 
 Open your browser and navigate to http://127.0.0.1:8000/upload/ to upload a resume and extract the data.
 
