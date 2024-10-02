@@ -55,13 +55,13 @@ Open your browser and navigate to http://127.0.0.1:8000/upload/ to upload a resu
 
 ## SS of the projects
 <br>
-<br>
-![Screenshot (136)](https://github.com/user-attachments/assets/313cf3a0-4706-4b81-b877-ebda588e09ef)
+
+![Screenshot (1)](https://github.com/user-attachments/assets/0fbca0d0-6817-4a0c-9607-2ee6078e7dca)
 <br><br>
-![Screenshot (135)](https://github.com/user-attachments/assets/1c8a6dc6-5563-4fa1-bdfa-87d38d75adf5)
+![Screenshot (2)](https://github.com/user-attachments/assets/00b61fb9-bea2-4be7-a59a-0b80cf252242)
 <br><br>
-![Screenshot (134)](https://github.com/user-attachments/assets/46702f3c-e84b-40dc-9a0b-f61cd711e733)
-<br><br><br>
-![Screenshot (133)](https://github.com/user-attachments/assets/205c2579-70fe-4fb8-95a2-b508ebd47e05)
+![Screenshot (3)](https://github.com/user-attachments/assets/590a13cc-b269-4993-8c5b-05091bd4bbdb)
+<br><br>
+![Screenshot (4)](https://github.com/user-attachments/assets/2fe72b99-3286-4f66-9e45-451759f15e11)
 <br>
-<br>
+
