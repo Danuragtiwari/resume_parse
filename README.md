@@ -52,4 +52,15 @@ python manage.py runserver
 
 Open your browser and navigate to http://127.0.0.1:8000/upload/ to upload a resume and extract the data.
 
-## venv folder for virtual Environments
+## SS of the projects
+<br>
+<br>
+![Screenshot (136)](https://github.com/user-attachments/assets/313cf3a0-4706-4b81-b877-ebda588e09ef)
+<br><br>
+![Screenshot (135)](https://github.com/user-attachments/assets/1c8a6dc6-5563-4fa1-bdfa-87d38d75adf5)
+<br><br>
+![Screenshot (134)](https://github.com/user-attachments/assets/46702f3c-e84b-40dc-9a0b-f61cd711e733)
+<br><br><br>
+![Screenshot (133)](https://github.com/user-attachments/assets/205c2579-70fe-4fb8-95a2-b508ebd47e05)
+<br>
+<br>
